@@ -3,7 +3,7 @@
 - This is the source of the machine learning model used in [Songify-App (API)]('https://github.com/G0maa/songify-app')
 - Currently, I only use a `cosine similarity matrix` that only saves the top 10 similar tracks.
 - The source of the `HDF5` file can be generated using [this](https://colab.research.google.com/drive/1s0da0T2G7sRxZrqDM0-Mj0oxhgwDKHY9?usp=sharing) notebook.
-  - This notebook was pretty much generated through long series of questions with `ChatGPT` & with the help of [Jonathan-Monir](https://github.com/Jonathan-Monir)
+  - This notebook took "very strong notes" of [Jonathan-Monir](https://github.com/Jonathan-Monir) orignal notebook & `ChatGPT`.
 - Note: The goal is not to create an accurate recommendation model, but to use Message Queues & RPCs.
 
 ## What does the code do
